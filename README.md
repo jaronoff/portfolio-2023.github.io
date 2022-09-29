@@ -7,3 +7,8 @@
 **Contact** - How to contact you and when
 
 **Social** - Other places that I’m creative
+
+
+
+Switching from Hugo to potentially Gatsby.js
+- deleting the Hugo files.
